@@ -1,6 +1,6 @@
 # SupplyPulse — Inventory & Replenishment Intelligence
 
-> A data-driven inventory intelligence platform that helps teams identify stockout risks, monitor inventory health, and prioritize replenishment decisions across 1,000+ SKUs.
+> A data-driven inventory intelligence platform that helps teams identify stockout risks, monitor inventory health, and prioritize replenishment decisions across 500+ SKUs.
 
 
 
