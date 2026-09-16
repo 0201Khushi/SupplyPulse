@@ -40,7 +40,7 @@ The product focuses on three questions:
 ## ✨ Key Features
 
 ### 📦 Inventory Intelligence
-- Tracks 1,000 SKUs across 10 categories and 18 suppliers
+- Tracks 500+ SKUs across 10 categories and 18 suppliers
 - Monitors current stock, inventory position, demand, lead time, and inventory coverage
 - Calculates inventory value and demand metrics
 
@@ -93,7 +93,6 @@ The application is currently validated against a synthetic inventory dataset:
 
 | Metric | Value |
 |---|---:|
-| SKUs | 1,000 |
 | Suppliers | 18 |
 | Categories | 10 |
 | Inventory Units | 1,011,161 |
