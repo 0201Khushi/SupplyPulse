@@ -2,12 +2,8 @@
 
 > A data-driven inventory intelligence platform that helps teams identify stockout risks, monitor inventory health, and prioritize replenishment decisions across 1,000+ SKUs.
 
-## 📸 Dashboard Preview
 
-<!-- Add your screenshot here -->
-<!-- ![SupplyPulse Dashboard](./screenshots/dashboard.png) -->
 
----
 
 ## 🎯 Problem
 
